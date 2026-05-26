@@ -1,3 +1,8 @@
+---
+layout: ../layouts/Layout.astro
+title: "EULA — Derks Financial QBO Internal Tool"
+---
+
 # End User License Agreement
 
 Last Updated: May 22, 2026
@@ -108,3 +113,5 @@ Questions about this agreement may be sent to:
 
 Derks Financial  
 ryan@derksfinancial.com
+
+<p><a href="/derks-intuit-developer-app-details/">← Back to overview</a></p>

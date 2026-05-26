@@ -1,3 +1,8 @@
+---
+layout: ../layouts/Layout.astro
+title: "Privacy Policy — Derks Financial QBO Internal Tool"
+---
+
 # Privacy Policy
 
 Last Updated: May 22, 2026
@@ -116,3 +121,5 @@ Questions about this Privacy Policy may be sent to:
 
 Derks Financial  
 ryan@derksfinancial.com
+
+<p><a href="/derks-intuit-developer-app-details/">← Back to overview</a></p>
